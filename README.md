@@ -6,7 +6,9 @@ This repository contains the implementation of a **fully automated, serverless d
 
 This project simulates a real-world migration scenario where historical data from three CSV files (`departments.csv`, `jobs.csv`, `hired_employees.csv`) is received via Outlook email. The solution automatically ingests, stores, processes, and delivers the results via email in an HTML report — using modern Azure services and Databricks.
 
-##Author
+## Author
+
 Santiago Calvo Patiño
+
 Email: santy.calvo.p@gmail.com
 
