@@ -2,6 +2,10 @@
 
 This repository contains the implementation of a **fully automated, serverless data ingestion and reporting pipeline** designed as a solution to a technical challenge involving CSV-based database migration, data transformation, and report generation.
 
+## Architecture Diagram
+
+![Architecture Diagram](/ChallengeArchitecture.png)
+
 ##  Project Summary
 
 This project simulates a real-world migration scenario where historical data from three CSV files (`departments.csv`, `jobs.csv`, `hired_employees.csv`) is received via Outlook email. The solution automatically ingests, stores, processes, and delivers the results via email in an HTML report — using modern Azure services and Databricks.
